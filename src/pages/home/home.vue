@@ -1,6 +1,6 @@
 <template>
   <div className="box-wrapper-public" id="wrapper-public">
-    <div class="title">home</div>
+    <div class="title">Welcome to demo marketplace panda</div>
   </div>
 </template>
 

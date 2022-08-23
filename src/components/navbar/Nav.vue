@@ -9,7 +9,7 @@
       <nav class="nav">
         <router-link class="menu-item" :to="{name: 'home-route'}">Home</router-link>
         <router-link class="menu-item" :to="{name: 'marketplace-route'}">Marketplace</router-link>
-        <a class="menu-item" href="https://62e7523ac29a8d5cda53d715--lovely-froyo-f4b372.netlify.app/" target="blank">Pokemon</a>
+        <a class="menu-item" href="https://pokemon-card-vue.netlify.app/" target="blank">Pokemon</a>
       </nav>
     </div>
   </div>
